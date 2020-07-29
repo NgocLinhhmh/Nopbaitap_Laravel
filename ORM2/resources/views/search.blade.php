@@ -4,7 +4,7 @@
     </head>
     <body>
         <div align="center">
-            <form action="searchres" method="get">
+            <form action="result" method="get">
                 Tìm kiếm: 
                 <input type="text" name="user_id" placeholder="user_id" />
                 <input type="text" name="phone" placeholder="phone" />

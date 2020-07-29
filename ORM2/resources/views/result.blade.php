@@ -6,7 +6,7 @@
             echo "<th>Name</th>";
         echo "</tr>";
 
-        foreach($Userss as $user){
+        foreach($Users as $user){
             echo "<tr>";
                 echo "<th>".$user->id."</th>";
                 echo "<th>".$user->name."</th>";
